@@ -4,7 +4,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:Ajax-Peepe/Maroof-Ajala.git
 git push -u origin main -->
-# Welcome to My GitHub Profile 👋
+# Welcome to My GitHub Profile 
 <img src="Maroof.jpeg" alt="Maroof Ajala picture" style="max-width: 400px; height: 400px;">
 
 ## About Me
