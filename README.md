@@ -5,7 +5,8 @@ git branch -M main
 git remote add origin git@github.com:Ajax-Peepe/Maroof-Ajala.git
 git push -u origin main
 # Welcome to My GitHub Profile 👋
-![Maroof Ajala](Maroof.jpeg)
+<!-- ![Maroof Ajala](Maroof.jpeg) -->
+<img src="Maroof.jpeg" alt="Maroof Ajala picture" style="max-width: 200px; border: 1px solid black;">
 
 ## About Me
 An accomplished and well-structured Cybersecurity, ArcSight Platform Technical Support Security Engineer.  And Information Systems Audit professional with extensive expertise in core IT domains.  
