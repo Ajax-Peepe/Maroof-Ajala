@@ -1,11 +1,10 @@
-git init
+<!--git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:Ajax-Peepe/Maroof-Ajala.git
-git push -u origin main
+git push -u origin main -->
 # Welcome to My GitHub Profile 👋
-<!-- ![Maroof Ajala](Maroof.jpeg) -->
 <img src="Maroof.jpeg" alt="Maroof Ajala picture" style="max-width: 200px; border: 1px solid black;">
 
 ## About Me
